@@ -8,8 +8,8 @@
 "Tencent Hy3 (high)","11/B","12/B","12/B","13/B","Pending","10/B",0,"Claude Code",1
 "Gemini 3.5 Flash (high)","21/C","15/B","20/C","17/B","Skip","Pending","3","Gemini CLI","1"
 "DeepSeek V4 Pro (max)","16/C","8/B","21/C","36/C","Failed(0/9)","31/C","0","Claude Code","1"
-"Qwen3.7-Max","Failed(2/12)","14/B","17/C+","46/D","Skip","Pending","0","Claude Code","1"
-"Kimi-K2.7-Code","30/C","18/C","26/C","55/D","Skip","Pending","0","Kimi Code","1"
+"Qwen3.7-Max","Failed(2/12)","14/B","17/C+","46/D","Skip","26/C","0","Claude Code","1"
+"Kimi-K2.7-Code","30/C","18/C","26/C","55/D","Skip","30/C","0","Kimi Code","1"
 "DeepSeek V4 Flash (max)","Failed(5/12)","19/C","32/C","48/D","Skip","Pending","0","Claude Code","1"
 "MiniMax-M3","Skip","19/C+","51/D+","Skip","Skip","Pending","1","Claude Code","1"
 "Qwen3.6-Plus(Think)","Failed(5/12)","16/C","43/D+","Failed(3/9)","Failed(0/9)","Skip","0","Claude Code","1"
